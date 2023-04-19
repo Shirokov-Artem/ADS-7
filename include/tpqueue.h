@@ -74,11 +74,6 @@ class TPQueue {
 };
 
 struct SYM {
-    char ch;
-    int prior;
-};
-
-struct SYM {
   char ch;
   int prior;
 };
